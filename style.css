@@ -142,7 +142,7 @@ body {
 
 .Social-icons {
     display: flex;
-    justify-content: center; /* تحريك الرموز إلى اليمين */
+    justify-content: center; 
 }
 
 
